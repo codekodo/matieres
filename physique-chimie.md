@@ -1,4 +1,4 @@
-# 1. Outils pour enseigner Python
+## 1. Outils pour enseigner Python
 
 Lire :
 * [Les calepins et Jupyter](https://www.codekodo.net/documentation/guides/Mini%20Guide%20%2301%20-%20Les%20calepins%20et%20Jupyter.md)
@@ -12,13 +12,13 @@ Lecures complémentaires :
 * [Comment insérer une image dans une cellule texte d'un calepin](https://www.codekodo.net/documentation/guides/Comment%20ins%C3%A9rer%20une%20image%20dans%20une%20cellule%20texte%20d'un%20calepin.md)
 * [Trucs & Astuces](https://www.codekodo.net/documentation/guides/Trucs%20%26%20Astuces.md)
 
-# 2. Programme de Première
+## 2. Programme de Première
 
-## 2.1. Bulletin officiel
+### 2.1. Bulletin officiel
 
 Programme à consulter [ici](http://cache.media.education.gouv.fr/file/CSP/52/6/1e_Physique-chimie_Specialite_Voie_generale_1022526.pdf).
 
-## 2.2. Capacités numériques du programme
+### 2.2. Capacités numériques du programme
 "Le langage de programmation conseillé est le langage Python"
 
 chapitre | capacités numériques
