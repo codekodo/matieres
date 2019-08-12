@@ -1,4 +1,4 @@
-## 1. Outils pour enseigner Python
+## 1. Outils pour enseigner avec Python
 
 Lire :
 * [Les calepins et Jupyter](https://www.codekodo.net/documentation/guides/Mini%20Guide%20%2301%20-%20Les%20calepins%20et%20Jupyter.md)
