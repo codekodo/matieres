@@ -28,3 +28,7 @@ Suivi et modélisation de l’évolution d’un système chimique | Déterminer 
 Mouvement d’un système | Utiliser un langage de programmation pour étudier la relation approchée entre la variation du vecteur vitesse d’un système modélisé par un point matériel entre deux instants voisins et la somme des forces appliquées sur celui-ci.
 Aspects énergétiques des phénomènes mécaniques | Utiliser un langage de programmation pour effectuer le bilan énergétique d’un système en mouvement.
 Ondes mécaniques | Représenter un signal périodique et illustrer l’influence de ses caractéristiques (période, amplitude) sur sa représentation. Simuler à l’aide d’un langage de programmation, la propagation d’une onde périodique.
+
+## 3. Ressources
+* [Ressources Python pour SPC 1ère](https://www.codekodo.net/course/64)<br />Ces calepins ressource sont une combinaison des ressources de l'IGEN et de l'Academie de Paris. De nombreux commentaires accompagnent les programmes Python afin d'en faciliter la compréhension.
+* [Bilan de matière avec Python](https://www.codekodo.net/course/65)<br />Cette activité se base sur des documents créés par l'IGEN et un groupe de réflexion des EEMCP2.
