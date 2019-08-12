@@ -6,8 +6,8 @@ Lire :
 * [Calepins et LaTeX](https://www.codekodo.net/documentation/guides/Mini%20Guide%20-%20Calepins%20et%20LaTeX.ipynb)
 
 Lecures complémentaires :
-* (Comment exécuter un programme Python pas à pas](https://www.codekodo.net/documentation/guides/Comment_ex%C3%A9cuter_un_programme_Python_pas_%C3%A0_pas.ipynb)
-* (Installer JupyterHub sur un serveur Debian](https://www.codekodo.net/documentation/guides/Installer_JupyterHub_sur_un_serveur_Debian.md)
-* (Figures animées dans un calepin](https://www.codekodo.net/documentation/guides/Figures%20anim%C3%A9es%20dans%20un%20calepin.md)
-* (Comment insérer une image dans une cellule texte d'un calepin](https://www.codekodo.net/documentation/guides/Comment%20ins%C3%A9rer%20une%20image%20dans%20une%20cellule%20texte%20d'un%20calepin.md)
-* (Trucs & Astuces](https://www.codekodo.net/documentation/guides/Trucs%20%26%20Astuces.md)
+* [Comment exécuter un programme Python pas à pas](https://www.codekodo.net/documentation/guides/Comment_ex%C3%A9cuter_un_programme_Python_pas_%C3%A0_pas.ipynb)
+* [Installer JupyterHub sur un serveur Debian](https://www.codekodo.net/documentation/guides/Installer_JupyterHub_sur_un_serveur_Debian.md)
+* [Figures animées dans un calepin](https://www.codekodo.net/documentation/guides/Figures%20anim%C3%A9es%20dans%20un%20calepin.md)
+* [Comment insérer une image dans une cellule texte d'un calepin](https://www.codekodo.net/documentation/guides/Comment%20ins%C3%A9rer%20une%20image%20dans%20une%20cellule%20texte%20d'un%20calepin.md)
+* [Trucs & Astuces](https://www.codekodo.net/documentation/guides/Trucs%20%26%20Astuces.md)
