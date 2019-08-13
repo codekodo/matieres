@@ -16,7 +16,7 @@ Lecures complémentaires :
 
 ### 2.1. Bulletin officiel
 
-Programme à consulter [ici](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/43/2/spe635_annexe_1063432.pdf).
+Programme à consulter [ici](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/16/8/spe632_annexe_1063168.pdf).
 
 ### 2.2. Capacités numériques du programme
 "Le langage de programmation conseillé est le langage Python"
@@ -25,7 +25,7 @@ Programme à consulter [ici](https://cache.media.education.gouv.fr/file/SP1-MEN-
 
 ### 3.1. Bulletin officiel
 
-Programme à consulter [ici](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/98/9/spe634_annexe_1062989.pdf).
+Programme à consulter [ici](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/95/7/spe631_annexe_1062957.pdf).
 
 ### 3.2. Capacités numériques du programme
 "Le langage de programmation conseillé est le langage Python"
