@@ -14,18 +14,9 @@ Lecures complémentaires :
 
 ## 2. Programme de Première
 
-### 2.1. Bulletin officiel
-
 Programme à consulter [ici](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/16/8/spe632_annexe_1063168.pdf).
 
-### 2.2. Capacités numériques du programme
-"Le langage de programmation conseillé est le langage Python"
 
 ## 3. Programme de Seconde
 
-### 3.1. Bulletin officiel
-
 Programme à consulter [ici](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/95/7/spe631_annexe_1062957.pdf).
-
-### 3.2. Capacités numériques du programme
-"Le langage de programmation conseillé est le langage Python"
