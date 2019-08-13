@@ -16,7 +16,7 @@ Lecures complémentaires :
 
 ### 2.1. Bulletin officiel
 
-Programme à consulter [ici](http://cache.media.education.gouv.fr/file/CSP/52/6/1e_Physique-chimie_Specialite_Voie_generale_1022526.pdf).
+Programme à consulter [ici](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/43/2/spe635_annexe_1063432.pdf).
 
 ### 2.2. Capacités numériques du programme
 "Le langage de programmation conseillé est le langage Python"
@@ -37,7 +37,7 @@ Ondes mécaniques | Représenter un signal périodique et illustrer l’influenc
 
 ### 3.1. Bulletin officiel
 
-Programme à consulter [ici](https://cache.media.eduscol.education.fr/file/Consultations2018-2019/79/0/PPL18_Physique-chimie_COM_2e_1024790.pdf).
+Programme à consulter [ici](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/98/9/spe634_annexe_1062989.pdf).
 
 ### 3.2. Capacités numériques du programme
 
