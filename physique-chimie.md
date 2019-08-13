@@ -23,7 +23,7 @@ Programme à consulter [ici](http://cache.media.education.gouv.fr/file/CSP/52/6/
 
 chapitre | capacités numériques
 ------------ | -------------
-Mesure et incertitudes | Représenter l’histogramme associé à une série de mesures à l’aide d’un tableur.
+Variabilité de la mesure d’une grandeur physique | Représenter l’histogramme associé à une série de mesures à l’aide d’un tableur.
 Suivi et modélisation de l’évolution d’un système chimique | Déterminer la composition de l’état final d’un système siège d’une transformation chimique totale à l’aide d’un langage de programmation.
 Mouvement d’un système | Utiliser un langage de programmation pour étudier la relation approchée entre la variation du vecteur vitesse d’un système modélisé par un point matériel entre deux instants voisins et la somme des forces appliquées sur celui-ci.
 Aspects énergétiques des phénomènes mécaniques | Utiliser un langage de programmation pour effectuer le bilan énergétique d’un système en mouvement.
@@ -47,5 +47,9 @@ Variabilité de la mesure d’une grandeur physique | Représenter l’histogram
 Description du mouvement d’un système par celui d’un point | Représenter les positions successives d’un système modélisé par un point lors d’une évolution unidimensionnelle ou bidimensionnelle à l’aide d’un langage de programmation.
 Vecteur déplacement d’un point | Représenter des vecteurs vitesse d’un système modélisé par un point lors d’un mouvement à l’aide d’un langage de programmation.
 Variation du vecteur vitesse | Représenter des vecteurs variation de vitesse d’un système modélisé par un point lors d’une évolution unidimensionnelle ou bidimensionnelle à l’aide d’un langage de programmation.
+
+### 3.3. Ressources
+* [Ressources Python pour SPC 2de](https://www.codekodo.net/course/63)<br />Ces calepins ressource sont une combinaison des ressources de l'IGEN et de l'Academie de Paris. De nombreux commentaires accompagnent les programmes Python afin d'en faciliter la compréhension.
+* [Capacités Numériques - Programme SPC Seconde](https://www.codekodo.net/course/54)
 
 
