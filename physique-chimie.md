@@ -29,6 +29,23 @@ Mouvement d’un système | Utiliser un langage de programmation pour étudier l
 Aspects énergétiques des phénomènes mécaniques | Utiliser un langage de programmation pour effectuer le bilan énergétique d’un système en mouvement.
 Ondes mécaniques | Représenter un signal périodique et illustrer l’influence de ses caractéristiques (période, amplitude) sur sa représentation. Simuler à l’aide d’un langage de programmation, la propagation d’une onde périodique.
 
-## 3. Ressources
+### 2.3. Ressources
 * [Ressources Python pour SPC 1ère](https://www.codekodo.net/course/64)<br />Ces calepins ressource sont une combinaison des ressources de l'IGEN et de l'Academie de Paris. De nombreux commentaires accompagnent les programmes Python afin d'en faciliter la compréhension.
 * [Bilan de matière avec Python](https://www.codekodo.net/course/65)<br />Cette activité se base sur des documents créés par l'IGEN et un groupe de réflexion des EEMCP2.
+
+## 3. Programme de Seconde
+
+### 3.1. Bulletin officiel
+
+Programme à consulter [ici](https://cache.media.eduscol.education.fr/file/Consultations2018-2019/79/0/PPL18_Physique-chimie_COM_2e_1024790.pdf).
+
+### 3.2. Capacités numériques du programme
+
+chapitre | capacités numériques
+------------ | -------------
+Variabilité de la mesure d’une grandeur physique | Représenter l’histogramme associé à une série de mesures à l’aide d’un tableur.
+Description du mouvement d’un système par celui d’un point | Représenter les positions successives d’un système modélisé par un point lors d’une évolution unidimensionnelle ou bidimensionnelle à l’aide d’un langage de programmation.
+Vecteur déplacement d’un point | Représenter des vecteurs vitesse d’un système modélisé par un point lors d’un mouvement à l’aide d’un langage de programmation.
+Variation du vecteur vitesse | Représenter des vecteurs variation de vitesse d’un système modélisé par un point lors d’une évolution unidimensionnelle ou bidimensionnelle à l’aide d’un langage de programmation.
+
+
