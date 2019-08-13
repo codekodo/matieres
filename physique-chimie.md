@@ -40,6 +40,7 @@ Ondes mécaniques | Représenter un signal périodique et illustrer l’influenc
 Programme à consulter [ici](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/98/9/spe634_annexe_1062989.pdf).
 
 ### 3.2. Capacités numériques du programme
+"Le langage de programmation conseillé est le langage Python"
 
 chapitre | capacités numériques
 ------------ | -------------
