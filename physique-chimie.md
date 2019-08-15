@@ -32,6 +32,7 @@ Ondes mécaniques | Représenter un signal périodique et illustrer l’influenc
 ### 2.3. Ressources
 * [Ressources Capacités Numériques pour PC 1ère](https://www.codekodo.net/course/64)<br />Ces calepins ressource sont une combinaison des ressources de l'IGEN et de l'Academie de Paris. De nombreux commentaires accompagnent les programmes Python afin d'en faciliter la compréhension.
 * [Bilan de matière avec Python](https://www.codekodo.net/course/65)<br />Cette activité se base sur des documents créés par l'IGEN et un groupe de réflexion des EEMCP2.
+* [Etude énergétique d'un mouvement rectiligne](https://www.codekodo.net/course/73)<br />Ressources de l'académie d'Amien adaptées au format calepin
 
 ## 3. Programme de Seconde
 
