@@ -30,7 +30,7 @@ Aspects énergétiques des phénomènes mécaniques | Utiliser un langage de pro
 Ondes mécaniques | Représenter un signal périodique et illustrer l’influence de ses caractéristiques (période, amplitude) sur sa représentation. Simuler à l’aide d’un langage de programmation, la propagation d’une onde périodique.
 
 ### 2.3. Ressources
-* [Ressources Python pour SPC 1ère](https://www.codekodo.net/course/64)<br />Ces calepins ressource sont une combinaison des ressources de l'IGEN et de l'Academie de Paris. De nombreux commentaires accompagnent les programmes Python afin d'en faciliter la compréhension.
+* [Ressources Capacités Numériques pour PC 1ère](https://www.codekodo.net/course/64)<br />Ces calepins ressource sont une combinaison des ressources de l'IGEN et de l'Academie de Paris. De nombreux commentaires accompagnent les programmes Python afin d'en faciliter la compréhension.
 * [Bilan de matière avec Python](https://www.codekodo.net/course/65)<br />Cette activité se base sur des documents créés par l'IGEN et un groupe de réflexion des EEMCP2.
 
 ## 3. Programme de Seconde
@@ -50,7 +50,7 @@ Vecteur déplacement d’un point | Représenter des vecteurs vitesse d’un sys
 Variation du vecteur vitesse | Représenter des vecteurs variation de vitesse d’un système modélisé par un point lors d’une évolution unidimensionnelle ou bidimensionnelle à l’aide d’un langage de programmation.
 
 ### 3.3. Ressources
-* [Ressources Python pour SPC 2de](https://www.codekodo.net/course/63)<br />Ces calepins ressource sont une combinaison des ressources de l'IGEN et de l'Academie de Paris. De nombreux commentaires accompagnent les programmes Python afin d'en faciliter la compréhension.
-* [Capacités Numériques - Programme SPC Seconde](https://www.codekodo.net/course/54)
+* [Ressources Capacités Numériques - 2de](https://www.codekodo.net/course/63)<br />Ces calepins ressource sont une combinaison des ressources de l'IGEN et de l'Academie de Paris. De nombreux commentaires accompagnent les programmes Python afin d'en faciliter la compréhension.
+* [Capacités Numériques - PC - 2de](https://www.codekodo.net/course/54)
 
 
